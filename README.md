@@ -664,3 +664,5 @@ Veri Sight is intentionally designed as a connected system rather than a collect
 From the first **Get Started** action to the final **Done** state, every major moment has a defined purpose, including the moments where things go wrong.
 
 That makes the project not just a visual UI concept, but a documented **security-focused user experience system** with a clear path from UX structure to polished interface and future implementation.
+
+**Video Demonstration: ** https://drive.google.com/file/d/1eup4MQxU0vx-NItQTKK_-5WMtH88qXFg/view?usp=drivesdk
